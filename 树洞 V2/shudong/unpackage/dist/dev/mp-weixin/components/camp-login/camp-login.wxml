@@ -1,0 +1,1 @@
+<view class="data-v-9379c0b8"><button class="loginButton data-v-9379c0b8" style="{{(loginStyle)}}" open-type="getUserInfo" hover-class="hoverLoginButton" data-event-opts="{{[['tap',[['loadInfo',['$event']]]]]}}" bindtap="__e">{{loginText}}</button></view>

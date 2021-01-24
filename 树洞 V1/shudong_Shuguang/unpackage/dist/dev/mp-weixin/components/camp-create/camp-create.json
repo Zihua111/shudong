@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "camp-switch": "/components/camp-switch/camp-switch"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": false,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": false,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": []
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wxceee7651a4bd8583",
+  "projectname": "camp-Client",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 1,
+      "list": [
+        {
+          "name": "lyz-userMain",
+          "query": "",
+          "id": 0,
+          "pathName": "pages/Lou/user-main/user-main"
+        },
+        {
+          "name": "lyz-createNew",
+          "query": "",
+          "id": 1,
+          "pathName": "pages/Lou/create-new/create-new"
+        },
+        {
+          "name": "lyz-staffMain",
+          "query": "",
+          "id": 2,
+          "pathName": "pages/Lou/staff-main/staff-main"
+        },
+        {
+          "name": "lyz-login",
+          "query": "",
+          "id": 3,
+          "pathName": "pages/Lou/login/login"
+        },
+        {
+          "name": "lyz-search",
+          "query": "",
+          "id": 4,
+          "pathName": "pages/Lou/search/search"
+        }
+      ]
+    }
+  }
+}

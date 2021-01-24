@@ -1,0 +1,1 @@
+<view><uni-search-bar vue-id="6d89a67d-1" radius="{{10}}" maxlength="50" data-event-opts="{{[['^input',[['goStaffMain']]]]}}" bind:input="__e" bind:__l="__l"></uni-search-bar></view>

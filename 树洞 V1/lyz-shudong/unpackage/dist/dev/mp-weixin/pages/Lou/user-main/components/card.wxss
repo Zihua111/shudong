@@ -1,0 +1,73 @@
+
+.cardBox.data-v-0e63648f {
+	width: 100%;
+	background: #515151;
+	-webkit-border-radius: 10px;
+	        border-radius: 10px;
+}
+image.data-v-0e63648f {
+	width: 24px;
+	height: 24px;
+	-webkit-border-radius: 12px;
+	        border-radius: 12px;
+	background-color: #ffffff;
+}
+.text1.data-v-0e63648f {
+	color: #888888;
+	font-size: 10px;
+	text-align: justify;
+}
+.text2.data-v-0e63648f {
+	color: #E2E2E2;
+	font-size: 15px;
+	text-align: justify;
+}
+.content.data-v-0e63648f {
+	padding: 10px 0;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 100%;
+	word-wrap: break-word;
+}
+.radius.data-v-0e63648f {
+	width: 23px;
+	-webkit-border-top-right-radius: 10px;
+	        border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	        border-bottom-right-radius: 10px;
+	border-right: 3px solid white;
+}
+.answer.data-v-0e63648f {
+	background: white;
+	height: 27px;
+	width: 287px;
+	-webkit-border-bottom-left-radius: 5px;
+	        border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	        border-bottom-right-radius: 5px;
+}
+.answerBox.data-v-0e63648f {
+	background: white;
+	width: 287px;
+	-webkit-border-bottom-left-radius: 5px;
+	        border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	        border-bottom-right-radius: 5px;
+	background: grey;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 21px;
+}
+.pop.data-v-0e63648f {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.9);
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding-left: 23.5px;
+	padding-right: 26.5px;
+}
+

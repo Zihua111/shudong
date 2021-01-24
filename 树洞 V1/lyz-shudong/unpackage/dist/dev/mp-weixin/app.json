@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/Lou/user-main/user-main",
+    "pages/Lou/create-new/create-new",
+    "pages/Lou/login/login",
+    "pages/Lou/staff-main/staff-main",
+    "pages/Lou/search/search"
+  ],
+  "subPackages": [],
+  "window": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap95.json"
+}

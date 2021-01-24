@@ -1,0 +1,162 @@
+.camp-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 40upx;
+}
+
+.post {
+	display: flex;
+	width: 650upx;
+	background: #444444;
+	border-radius: 15upx;
+}
+
+.post-left {
+	display: flex;
+	flex-direction: column;
+}
+
+.mood-bar {
+	display: flex;
+	align-items: center;
+	width: 8upx;
+	margin-top: 40upx;
+	margin-bottom: 40upx;
+	border-radius: 4upx;
+}
+
+.head {
+	display: flex;
+	padding-left: 30upx;
+	padding-top: 30upx;
+}
+
+.head-text {
+	display: flex;
+	height: 27upx;
+	font-size: 21upx;
+	font-weight: bold;
+	color: #888888;
+}
+
+.content {
+	display: flex;
+	overflow: auto;
+	padding: 50upx;
+	margin-bottom: 20upx;
+	margin-top: 10upx;
+}
+
+.content-text {
+	display: flex;
+	width: 500upx;
+	max-height: 200upx;
+	font-size: 29upx;
+	color: #FFFFFF;
+	opacity: 0.8;
+	line-height: 45upx;
+	letter-spacing: 2upx;
+}
+
+.foot {
+	display: flex;
+	flex-direction: column;
+	padding: 30upx;
+	width: 560upx;
+	background: #585858;
+	box-shadow: 0upx 20upx 38upx 0upx rgba(219, 165, 3, 0.2) inset;
+	border-radius: 0upx 0upx 15upx 15upx;
+}
+
+.foot-reply {
+	display: flex;
+	flex-direction: column;
+}
+
+.foot-head {
+	display: flex;
+	padding-left: 10upx;
+	padding-top: 10upx;
+}
+
+.foot-content {
+	display: flex;
+	overflow: auto;
+	padding: 50upx 20upx 50upx 20upx;
+}
+
+.foot-form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 50upx;
+	margin-top: 30upx;
+}
+
+.foot-textarea {
+	display: flex;
+	width: 500upx;
+	height: 323upx;
+	padding: 20upx;
+	background: #6A6A6A;
+	border-radius: 20upx;
+	font-size: 29upx;
+	line-height: 45upx;
+	letter-spacing: 2upx;
+	color: #FFFFFF;
+	opacity: 0.7;
+}
+
+.button-submit {
+	display: flex;
+	width: 200upx;
+	height: 50upx;
+	background: #DBA503;
+	box-shadow: 0upx 3upx 24upx 0upx rgba(253, 208, 65, 0.68);
+	border-radius: 10upx;
+	font-size: 21upx;
+	font-weight: bold;
+	letter-spacing: 2upx;
+	color: #FFFFFF;
+	margin-top: 50upx;
+	justify-content: center;
+	align-items: center;
+}
+
+.button-submit-hover {
+	background: #FFFFFF;
+	box-shadow: 0upx 3upx 24upx 0upx rgba(253, 208, 65, 0);
+	color: #DBA503;
+}
+
+.foot-text {
+	display: flex;
+	justify-content: space-between;
+	color: #99989b;
+	font-size: 21upx;
+}
+
+.foot-text-optional {
+	display: flex;
+}
+
+.foot-text-like {
+	margin-right: 20upx;
+}
+
+.foot-text-comment {
+	margin-left: 20upx;
+}
+
+.pentagon {
+	width: 28upx;
+	height: 27upx;
+	margin-right: 12upx;
+}
+
+.thumb {
+	width: 26upx;
+	height: 26upx;
+	margin-right: 6upx;
+}

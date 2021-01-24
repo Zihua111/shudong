@@ -1,0 +1,1 @@
+<view><view class="login-container"><camp-login vue-id="3c75a5ae-1" loginText="登录" loginStyle="height:50px;width:200px;line-height:50px;" data-event-opts="{{[['^loginSuccess',[['goUserMain']]],['^loginFail',[['login_fail']]]]}}" bind:loginSuccess="__e" bind:loginFail="__e" bind:__l="__l"></camp-login></view></view>

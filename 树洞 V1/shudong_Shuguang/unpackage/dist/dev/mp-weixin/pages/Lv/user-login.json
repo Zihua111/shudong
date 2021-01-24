@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "用户登录",
+  "usingComponents": {
+    "camp-login": "/components/camp-login/camp-login"
+  }
+}

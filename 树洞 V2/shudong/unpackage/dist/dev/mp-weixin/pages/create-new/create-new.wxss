@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  选择发表状态区域 */
+.styleSelection.data-v-4805f034 {
+	position: relative;
+	width: 82%;
+	height: 23px;
+	line-height: 23px;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-border-radius: 15px;
+	        border-radius: 15px;
+	background-color: #352844;
+	font-size: 13px;
+}
+/* 匿名模式下的样式 */
+.blackStyle.data-v-4805f034,
+.brightStyle.data-v-4805f034 {
+	position: absolute;
+	color: #F2F2F2;
+	width: 50%;
+	height: 100%;
+	-webkit-border-radius: 15px;
+	        border-radius: 15px;
+	background-color: #453959;
+	text-align: center;
+}
+/* 发表框 */
+.contentBox.data-v-4805f034 {
+	width: 100%;
+	height: 180px;
+	background-color: #221533;
+	padding-top: 20px;
+	margin-top: 30px;
+}
+/* 文本键入区域 */
+.contentBox>textarea.data-v-4805f034 {
+	width: 77%;
+	height: 134px;
+	opacity: 0.5;
+	-webkit-border-radius: 15px;
+	        border-radius: 15px;
+	background-color: #453959;
+	margin: 0 auto;
+	color: #F8F8F8;
+}
+/*选择框标题*/
+.styleTitle.data-v-4805f034 {
+	background: -webkit-gradient(linear, left top, left bottom, from(#221533), to(rgba(0, 0, 0, 0.5)));
+	background: -webkit-linear-gradient(#221533, rgba(0, 0, 0, 0.5));
+	background: linear-gradient(#221533, rgba(0, 0, 0, 0.5));
+	color: #352844;
+	font-size: 19px;
+	font-weight: 600;
+	height: 30px;
+	margin: 0 auto;
+	padding-left: 40px;
+	padding-top: 10px;
+	-webkit-border-bottom-left-radius: 50px;
+	        border-bottom-left-radius: 50px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.styleTitle2.data-v-4805f034 {
+	background: -webkit-gradient(linear, left top, left bottom, from(#352844), to(rgba(0, 0, 0, 0.5)));
+	background: -webkit-linear-gradient(#352844, rgba(0, 0, 0, 0.5));
+	background: linear-gradient(#352844, rgba(0, 0, 0, 0.5));
+	color: #352844;
+	font-size: 19px;
+	font-weight: 600;
+	height: 30px;
+	margin: 0 auto;
+	padding-left: 40px;
+	padding-top: 10px;
+	-webkit-border-bottom-left-radius: 50px;
+	        border-bottom-left-radius: 50px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.colorWrapper.data-v-4805f034 {
+	text-align: center;
+	white-space: nowrap;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	margin: 0 auto;
+	width: 90%;
+	padding-top: 20px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+/* 每一个头像的颜色 */
+.color.data-v-4805f034 {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+	margin: 10px;
+	white-space: nowrap;
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
+}
+.color2.data-v-4805f034 {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	white-space: nowrap;
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+}
+.current.data-v-4805f034 {
+	-webkit-box-shadow: 0rpx 0rpx 15rpx 0rpx rgba(255, 255, 255, 0.8);
+	        box-shadow: 0rpx 0rpx 15rpx 0rpx rgba(255, 255, 255, 0.8);
+}
+/* 底部区域 */
+.bottom.data-v-4805f034 {
+	width: 100%;
+}
+/* 底部按钮 */
+.button.data-v-4805f034 {
+	background-image: -webkit-gradient(linear, left top, right top, from(#7C749F), to(#50456E));
+	background-image: -webkit-linear-gradient(left, #7C749F, #50456E);
+	background-image: linear-gradient(to right, #7C749F, #50456E);
+	width: 230px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	font-size: 25px;
+	font-weight: 400;
+	color: #221533;
+	opacity: 0.48;
+	margin: 0 auto;
+	-webkit-border-radius: 20px;
+	        border-radius: 20px;
+	position: relative;
+	margin-top: 70px;
+	-webkit-box-shadow: 0rpx 0rpx 15rpx 0rpx rgba(255, 255, 255, 0.8);
+	        box-shadow: 0rpx 0rpx 15rpx 0rpx rgba(255, 255, 255, 0.8);
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
+}
+.buttonHover.data-v-4805f034 {
+	font-size: 26px;
+	opacity: 0.64;
+}
+

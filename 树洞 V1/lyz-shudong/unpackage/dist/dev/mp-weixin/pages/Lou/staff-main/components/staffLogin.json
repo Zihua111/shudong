@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mypicker": "/pages/Lou/staff-main/components/mypicker"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-icons": "/pages/Lou/search/components/uni-icons"
+  }
+}

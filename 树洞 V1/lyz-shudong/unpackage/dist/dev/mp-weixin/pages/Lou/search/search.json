@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "uni-search-bar": "/pages/Lou/search/components/uni-search-bar"
+  }
+}

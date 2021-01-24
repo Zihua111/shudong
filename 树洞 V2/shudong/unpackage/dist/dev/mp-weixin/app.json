@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/user-main/user-main",
+    "pages/create-new/create-new",
+    "pages/staff-main/staff-main"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#221533"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap8.json"
+}

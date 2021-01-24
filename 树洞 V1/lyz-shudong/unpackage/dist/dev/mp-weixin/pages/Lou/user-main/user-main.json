@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "usingComponents": {
+    "swiper": "/pages/Lou/user-main/components/swiper",
+    "card": "/pages/Lou/user-main/components/card",
+    "bottom": "/pages/Lou/user-main/components/bottom",
+    "uni-search-bar": "/pages/Lou/user-main/components/uni-search-bar",
+    "uni-nav-bar": "/pages/Lou/user-main/components/uni-nav-bar"
+  }
+}

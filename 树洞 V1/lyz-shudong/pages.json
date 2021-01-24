@@ -1,0 +1,58 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/Lou/user-main/user-main",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true, //设置为true表示当前页面开启下拉刷新
+				"backgroundTextStyle": "dark" //下拉 loading 的样式，仅支持 dark/light
+			}
+		},
+		{
+			"path": "pages/Lou/create-new/create-new",
+			"style": {}
+		},
+		{
+			"path": "pages/Lou/login/login",
+			"style": {}
+		},
+		{
+			"path": "pages/Lou/staff-main/staff-main",
+			"style": {}
+		},
+		{
+			"path": "pages/Lou/search/search",
+			"style": {}
+		}
+	],
+	"globalStyle": {},
+	"condition": {
+		"current": 1,
+		"list": [{
+				"name": "lyz-userMain",
+				"path": "pages/Lou/user-main/user-main",
+				"query": ""
+			},
+			{
+				"name": "lyz-createNew",
+				"path": "pages/Lou/create-new/create-new",
+				"query": ""
+			},
+			{
+				"name": "lyz-staffMain",
+				"path": "pages/Lou/staff-main/staff-main",
+				"query": ""
+			},
+			{
+				"name": "lyz-login",
+				"path": "pages/Lou/login/login",
+				"query": ""
+			},
+			{
+				"name": "lyz-search",
+				"path": "pages/Lou/search/search",
+				"query": ""
+			}
+		]
+	}
+}

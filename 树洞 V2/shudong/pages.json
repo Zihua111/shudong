@@ -1,0 +1,45 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/user-main/user-main",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true, //设置为true表示当前页面开启下拉刷新
+				"backgroundTextStyle": "dark" //下拉 loading 的样式，仅支持 dark/light
+			}
+		}
+	    ,{
+            "path" : "pages/create-new/create-new",
+            "style" : {}
+        },
+		{
+		    "path" : "pages/staff-main/staff-main",
+		    "style" : {
+				"enablePullDownRefresh": true, //设置为true表示当前页面开启下拉刷新
+				"backgroundTextStyle": "dark" //下拉 loading 的样式，仅支持 dark/light
+			}
+		}
+    ],
+	"globalStyle": {
+		 "navigationBarBackgroundColor": "#221533"
+	},
+	"condition": {
+		"current": 1,
+		"list": [
+		{
+			"name": "user-main",
+			"path": "pages/user-main/user-main",
+			"query": ""
+		},
+		{
+			"name": "create-new",
+			"path": "pages/create-new/create-new",
+			"query": ""
+		},
+		{
+			"name": "staff-main",
+			"path": "pages/staff-main/staff-main",
+			"query": ""
+		}]
+	}
+}

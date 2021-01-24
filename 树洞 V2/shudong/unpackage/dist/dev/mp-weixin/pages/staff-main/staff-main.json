@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "usingComponents": {
+    "popup": "/pages/staff-main/components/popup",
+    "card": "/pages/staff-main/components/card"
+  }
+}

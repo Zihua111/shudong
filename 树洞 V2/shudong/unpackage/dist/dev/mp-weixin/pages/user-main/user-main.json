@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "camp-login": "/components/camp-login/camp-login",
+    "custom-swiper": "/components/custom-swiper",
+    "card": "/components/card",
+    "bottom-navigation-bar": "/components/bottom-navigation-bar",
+    "uni-nav-bar": "/components/uni-nav-bar",
+    "poster": "/components/poster"
+  }
+}

@@ -1,0 +1,1 @@
+<view><camp-login bind:loginSuccess="__e" vue-id="1a26a2ba-1" data-event-opts="{{[['^loginSuccess',[['navigate']]]]}}" bind:__l="__l" vue-slots="{{['default']}}">登录</camp-login></view>
