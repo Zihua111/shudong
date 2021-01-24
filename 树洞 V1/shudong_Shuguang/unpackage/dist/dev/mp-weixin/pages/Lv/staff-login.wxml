@@ -1,1 +1,0 @@
-<view><staff-login bind:staffId="__e" vue-id="977bff14-1" data-event-opts="{{[['^staffId',[['navigate']]]]}}" bind:__l="__l"></staff-login></view>

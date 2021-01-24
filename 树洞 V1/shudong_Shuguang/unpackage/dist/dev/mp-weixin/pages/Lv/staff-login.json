@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "客服登录",
-  "usingComponents": {
-    "staff-login": "/components/staffLogin/staffLogin"
-  }
-}

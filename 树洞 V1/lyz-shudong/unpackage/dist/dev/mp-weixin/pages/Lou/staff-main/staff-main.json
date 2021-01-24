@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "popup": "/pages/Lou/staff-main/components/popup",
-    "card": "/pages/Lou/staff-main/components/card",
-    "staff-login": "/pages/Lou/staff-main/components/staffLogin"
-  }
-}
